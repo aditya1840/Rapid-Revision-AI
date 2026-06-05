@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+
+streamlit==1.45.1
+faiss-cpu==1.13.2
+pypdf==4.2.0
+
+sentence-transformers==2.7.0
+torch==2.2.2
+
+langchain==0.2.14
+langchain-community==0.2.12
+
+ollama==0.1.9
